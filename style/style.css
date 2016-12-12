@@ -7,17 +7,6 @@
     background-color: #666 !important
 }
 
-.head-bar {
-    position: absolute;
-    top: 56px;
-    right: 10px;
-    left: 0;
-    z-index: 680;
-    padding-left: 8px;
-    height: 60px;
-    line-height: 46px;
-    color: #ffffff;
-    border-bottom: none;
-    background-color: #800080;
-    font-size: 14px;
+div.ngCell,div.ngCellText,div.ngVerticalBar,div.ngHeaderCell,div.ngHeaderContainer {
+    color: #800080 !important
 }
