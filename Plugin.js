@@ -24,12 +24,14 @@
 // ==/UserScript==
 
 var main = function() {
+    var css = GM_getValue("magister_theme", "https://naamloosdt.github.io/MagisterTheme/style/style.css");
     try{
-    var bg = document.getElementsByTagName('mg-background-carrousel')[0];
-    bg.parentNode.removeChild(bg);
+        var bg = document.getElementsByTagName('mg-background-carrousel')[0];
+        bg.parentNode.removeChild(bg);
     }catch(e){
     }
-    $('<link rel="stylesheet" href="https://rawgit.com/NaamloosDT/MagisterTheme/master/style/style.css">').appendTo('head');
+    var buttons = document.getElementsByClassName('buttons')[0];
+    $('<link rel="stylesheet" href="'+css+'">').appendTo('head');
 };
 
 $(document).ready(main);
