@@ -7,6 +7,6 @@
     background-color: #666 !important
 }
 
-div.ngCell,div.ngCellText,div.ngVerticalBar,div.ngHeaderCell,div.ngHeaderContainer {
-    color: #800080 !important
+.header {
+	background-color: #800080 !important
 }
