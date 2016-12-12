@@ -29,7 +29,6 @@ var main = function() {
     bg.parentNode.removeChild(bg);
     }catch(e){
     }
-    GM_addStyle("body { color: cyan; background-image: url(\""+background+"\"); } img { border: 0; }");
     $('<link rel="stylesheet" href="https://cdn.rawgit.com/NaamloosDT/MagisterTheme/master/style/style.css">').appendTo('head');
 };
 
