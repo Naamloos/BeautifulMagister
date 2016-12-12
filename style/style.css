@@ -25,3 +25,7 @@ body {
 #cijfers-container .main div.content-container-cijfers {
     background-color: #666 !important
 }
+
+.head-bar {
+    background-color: #800080;
+}
