@@ -2,6 +2,7 @@ body {
 	color: cyan;
 	background-image: url("http://www.hddesktops.com/web/wallpapers/stars-space-universe/4096x2160.jpg");
 	border: 0; 
+	background-size: 100% auto;
 }
 
 .content-container {
@@ -14,11 +15,11 @@ body {
 }
 
 .header {
-    background-color: #999 !important
+    background-color: #222 !important
 }
 
 .menu {
-    background-color: #999 !important
+    background-color: #222 !important
 }
 
 #cijfers-container .main div.content-container-cijfers {
