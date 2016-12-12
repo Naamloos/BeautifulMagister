@@ -29,7 +29,7 @@ var main = function() {
     bg.parentNode.removeChild(bg);
     }catch(e){
     }
-    $('<link rel="stylesheet" href="https://cdn.rawgit.com/NaamloosDT/MagisterTheme/master/style/style.css">').appendTo('head');
+    $('<link rel="stylesheet" href="https://rawgit.com/NaamloosDT/MagisterTheme/master/style/style.css">').appendTo('head');
 };
 
 $(document).ready(main);
