@@ -8,5 +8,13 @@
 }
 
 .header {
-	background-color: #800080 !important
+    background-color: #800080 !important
+}
+
+.menu {
+    background-color: #800080 !important
+}
+
+#cijfers-container .main div.content-container-cijfers {
+    background-color: #666 !important
 }
