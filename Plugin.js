@@ -39,7 +39,7 @@ var main = function() {
 
 $(document).ready(main);
 
-$('<a id="thema" tabindex="3" style="font-size: 6pt;"> [verander thema]</a>').appendTo('a');
+$('<a id="thema" tabindex="3" style="font-size: 6pt;"> [verander thema]</a>').appendTo('div');
 
 function setthema(url){
     GM_setValue("magister_theme", url);
