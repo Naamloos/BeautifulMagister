@@ -44,6 +44,7 @@ $('<a class="btn-primary3" ng-class="{\'state-busy\': isBusy}" data-ng-click="" 
 
 function setthema(url){
     GM_setValue("magister_theme", url);
+    location.reload(true);
 }
 
 $("#thema").click(function(){
