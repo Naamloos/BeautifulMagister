@@ -1,0 +1,239 @@
+body {
+	background-color: #333333;
+	background-size:100%;
+}
+
+.dialog .title {
+    background-color: #8b0000 !important;
+    color: #EEE;
+}
+
+.btn-primary3 {
+    margin: 1px;
+    color: #FFF;
+    height: 36px;
+    min-width: 110px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background: #8b0000;
+    padding: 0 12px;
+    display: block;
+    width: 110px;
+}
+
+.btn-primary2:hover, .btn-primary3:hover {
+  background: #8b1111; }
+
+.btn-primary2:active, .btn-primary3:active {
+  background: #8b2222; }
+
+.header {
+    background-color: #000;
+}
+
+.login-dialog:before, .change-password-dialog.no-preview:before {
+    position: relative;
+    float: left;
+    width: 0px;
+    height: 0px;
+    background: transparent;
+    -moz-box-shadow: 1px 0 5px -1px rgba(0, 0, 0, 0.7);
+    -webkit-box-shadow: 1px 0 5px -1px rgba(0, 0, 0, 0.7);
+    box-shadow: 1px 0 5px -1px rgba(0, 0, 0, 0.7);
+    content: '';
+}
+
+.dialog .content {
+    height: 110;
+    min-height: 120px;
+    font-size: 11px;
+    background-color: #fafafa;
+    padding-top: 30px;
+}
+
+fieldset {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: -50px;
+}
+
+.login-dialog .content-pane, .change-password-dialog.no-preview .content-pane {
+    padding-left: 0px;
+    text-align: center;
+	display: block;
+    margin: auto;
+    padding-bottom: 0px;
+}
+
+.account-dialog {
+    width: 650px;
+    height: 450px;
+}
+
+.menu {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    bottom: 0;
+    z-index: 900;
+    float: left;
+    width: 43px;
+    background-color: #000;
+    color: #000;
+}
+
+.head-bar {
+    position: absolute;
+    top: 56px;
+    right: 10px;
+    left: 0;
+    z-index: 680;
+    padding-left: 8px;
+    height: 47px;
+    line-height: 46px;
+    color: #ffffff;
+    border-bottom: none;
+    background-color: #8b0000;
+    font-size: 14px;
+}
+
+#cijfers-leerling .last-grade {
+    float: left;
+    padding: 11px 0 0 0;
+    margin: 8px 0 8px 8px;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    color: #fff;
+    background-color: #8b0000;
+    font-size: 36px;
+    font-family: "droid_sansregular", arial, helvetica, sans-serif;
+    border-radius: 5px;
+}
+
+.alert {
+    border-left: 4px solid #ff0000;
+    background-color: #ffcccc !important;
+}
+
+.alert span.nrblock {
+    background-color: #8b0000;
+}
+
+.menu li.active, .menu li.highlight-menu.active, .menu li.active > a:hover {
+    background-color: #8b0000;
+}
+
+aside .tabs li.active a {
+    background-color: #8b0000;
+}
+
+.head-bar div > a {
+    display: block;
+    padding: 0 8px 0 8px;
+    border-left: 1px solid #000000;
+    height: 47px;
+    line-height: 46px;
+    color: #ffffff;
+}
+
+.text-icon[icon-type="information"] {
+    background-color: #8b0000;
+    color: #ffffff;
+}
+
+#afsprakenlijst-container .today {
+    color: #8b0000;
+}
+
+aside .trigger-btn {
+    height: 46px;
+    text-indent: 0;
+    width: 46px;
+    z-index: 99999;
+    border-left: 1px solid #8b0000;
+}
+
+aside .tabs li.active:after {
+    display: block;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    width: 0;
+    height: 0;
+    content: "";
+    border-style: solid;
+    border-width: 6px;
+    -webkit-transform: rotate(0.01deg);
+    border-color: #8b0000 transparent transparent transparent;
+    border-color: #8b0000 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) rgba(255, 255, 255, 0);
+    top: 53px;
+}
+
+.block h3 {
+    color: #8b0000;
+}
+
+.k-calendar .k-header .k-nav-fast {
+    color: #8b0000;
+}
+
+aside .trigger-btn {
+    border-left: 1px solid #8b0000;
+}
+
+.icon-menu {
+	background-color: #000;
+}
+
+aside .tabs li:hover a {
+        color: #8b0000; 
+}
+
+.details h3 {
+    color: #8b0000;
+}
+
+.alert span.label {
+    color: #8b0000 !important;
+}
+
+.msg-list li.alert.unread {
+    border-left: 4px solid #ff0000;
+}
+
+.msg-list .unread {
+  font-weight: normal;
+  border-left: 4px solid #fff;
+}
+
+.msg-list .unread .from {
+    font-weight: bold;
+    color: #000; 
+}
+
+.widget .multi-line li span a:hover {
+	color: #ff0000; 
+}
+
+.alert {
+  border-left: 4px solid #ffffff;
+  background-color: #ff8888 !important; }
+  .alert.selected {
+    border-left: 4px solid #ffffff;
+    background-color: #ff8888 !important; }
+  .alert a {
+    padding-left: 6px !important; }
+    .alert a:hover {
+      background-color: #ffffff !important; }
+  .alert span.nrblock {
+    background-color: #8b0000; }
+  .alert span.label {
+    color: #000000 !important; }
+  .alert:hover {
+    background-color: #ffffff !important; 
+}
+
+.card .content .content-title {
+    color: #8b0000;
+}
