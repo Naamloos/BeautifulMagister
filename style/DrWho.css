@@ -7,11 +7,11 @@ body {
 
 .header {
     height: 48px;
-    background-color: #102372;
+    background-color: #0d1c59;
 }
 
 .dialog .title {
-    background-color: #102372 !important;
+    background-color: #1938b3 !important;
     color: #FFFFFF;
 }
 
@@ -22,17 +22,17 @@ body {
     min-width: 110px;
     border: 1px solid #000000;
     border-radius: 3px;
-    background: #102372;
+    background: #1938b3;
     padding: 0 12px;
     display: block;
     width: 110px;
 }
 
 .btn-primary2:hover, .btn-primary3:hover {
-  background: #102372; }
+  background: #1938b3; }
 
 .btn-primary2:active, .btn-primary3:active {
-  background: #102372; }
+  background: #1938b3; }
 
 .login-dialog:before, .change-password-dialog.no-preview:before {
     position: relative;
@@ -96,7 +96,7 @@ fieldset {
     line-height: 46px;
     color: #ffffff;
     border-bottom: none;
-    background-color: #102372;
+    background-color: #1938b3;
     font-size: 14px;
 }
 
@@ -108,7 +108,7 @@ fieldset {
     width: 80px;
     text-align: center;
     color: #fff;
-    background-color: #102372;
+    background-color: #1938b3;
     font-size: 36px;
     font-family: "droid_sansregular", arial, helvetica, sans-serif;
     border-radius: 5px;
@@ -120,15 +120,15 @@ fieldset {
 }
 
 .alert span.nrblock {
-    background-color: #102372;
+    background-color: #1938b3;
 }
 
 .menu li.active, .menu li.highlight-menu.active, .menu li.active > a:hover {
-    background-color: #102372;
+    background-color: #1938b3;
 }
 
 aside .tabs li.active a {
-    background-color: #102372;
+    background-color: #1938b3;
 }
 
 .head-bar div > a {
@@ -141,12 +141,12 @@ aside .tabs li.active a {
 }
 
 .text-icon[icon-type="information"] {
-    background-color: #102372;
+    background-color: #1938b3;
     color: #ffffff;
 }
 
 #afsprakenlijst-container .today {
-    color: #102372;
+    color: #1938b3;
 }
 
 aside .trigger-btn {
@@ -154,7 +154,7 @@ aside .trigger-btn {
     text-indent: 0;
     width: 46px;
     z-index: 99999;
-    border-left: 1px solid #102372;
+    border-left: 1px solid #1938b3;
 }
 
 aside .tabs li.active:after {
@@ -168,21 +168,21 @@ aside .tabs li.active:after {
     border-style: solid;
     border-width: 6px;
     -webkit-transform: rotate(0.01deg);
-    border-color: #102372 transparent transparent transparent;
-    border-color: #102372 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) rgba(255, 255, 255, 0);
+    border-color: #1938b3 transparent transparent transparent;
+    border-color: #1938b3 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) rgba(255, 255, 255, 0);
     top: 53px;
 }
 
 .block h3 {
-    color: #102372;
+    color: #1938b3;
 }
 
 .k-calendar .k-header .k-nav-fast {
-    color: #102372;
+    color: #1938b3;
 }
 
 aside .trigger-btn {
-    border-left: 1px solid #102372;
+    border-left: 1px solid #1938b3;
 }
 
 .icon-menu {
@@ -190,15 +190,15 @@ aside .trigger-btn {
 }
 
 aside .tabs li:hover a {
-        color: #102372; 
+        color: #1938b3; 
 }
 
 .details h3 {
-    color: #102372;
+    color: #1938b3;
 }
 
 .alert span.label {
-    color: #102372 !important;
+    color: #1938b3 !important;
 }
 
 .msg-list li.alert.unread {
@@ -230,7 +230,7 @@ aside .tabs li:hover a {
     .alert a:hover {
       background-color: #ffffff !important; }
   .alert span.nrblock {
-    background-color: #102372; }
+    background-color: #1938b3; }
   .alert span.label {
     color: #000000 !important; }
   .alert:hover {
@@ -238,5 +238,5 @@ aside .tabs li:hover a {
 }
 
 .card .content .content-title {
-    color: #102372;
+    color: #1938b3;
 }
