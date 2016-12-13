@@ -108,14 +108,14 @@ fieldset {
     width: 80px;
     text-align: center;
     color: #fff;
-    background-color: #1938b3;
+    background-color: #1d3fc9;
     font-size: 36px;
     font-family: "droid_sansregular", arial, helvetica, sans-serif;
     border-radius: 5px;
 }
 
 .alert {
-    border-left: 4px solid #ff0000;
+    border-left: 4px solid #3659e2;
     background-color: #ffcccc !important;
 }
 
