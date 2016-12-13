@@ -5,7 +5,7 @@
 2. Open de addon en klik op "create new script"
 3. Kopieer en plak alle code van `https://github.com/NaamloosDT/MagisterTheme/blob/master/Plugin.js`.
 4. Sla de addon op en ga naar de magister site van je school.
-5. Klik op de `thema` knop.
+5. Klik op de `verander thema` knop naast het Magister logo boven aan de pagina.
 6. Voer een URL in voor je thema en klik op `OK`.
 7. Profit!
 
