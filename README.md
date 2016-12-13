@@ -1,5 +1,5 @@
 # MagisterTheme
-### Werkt voor elke school die gebruik maakt van Magister 6.
+###### Werkt voor elke school die gebruik maakt van Magister 6.
 ## Instellen
 1. Download Greasemonkey (firefox) of Tampermonkey (chrome).
 2. Open de addon en klik op "create new script"
