@@ -81,8 +81,8 @@ fieldset {
     z-index: 900;
     float: left;
     width: 43px;
-    background-color: #1938b3;
-    color: #1938b3;
+    background-color: #0d1c59;
+    color: #0d1c59;
 }
 
 .head-bar {
@@ -115,20 +115,20 @@ fieldset {
 }
 
 .alert {
-    border-left: 4px solid #3659e2;
+    border-left: 4px solid #4d6be6;
     background-color: #ffcccc !important;
 }
 
 .alert span.nrblock {
-    background-color: #1938b3;
+    background-color: #132a86;
 }
 
 .menu li.active, .menu li.highlight-menu.active, .menu li.active > a:hover {
-    background-color: #1938b3;
+    background-color: #132a86;
 }
 
 aside .tabs li.active a {
-    background-color: #1938b3;
+    background-color: #132a86;
 }
 
 .head-bar div > a {
@@ -186,7 +186,7 @@ aside .trigger-btn {
 }
 
 .icon-menu {
-	background-color: #000;
+	background-color: #0d1c59;
 }
 
 aside .tabs li:hover a {
@@ -202,7 +202,7 @@ aside .tabs li:hover a {
 }
 
 .msg-list li.alert.unread {
-    border-left: 4px solid #ff0000;
+    border-left: 4px solid #132a86;
 }
 
 .msg-list .unread {
@@ -216,15 +216,15 @@ aside .tabs li:hover a {
 }
 
 .widget .multi-line li span a:hover {
-	color: #ff0000; 
+	color: #132a86; 
 }
 
 .alert {
   border-left: 4px solid #ffffff;
-  background-color: #ff8888 !important; }
+  background-color: #4d6be6 !important; }
   .alert.selected {
     border-left: 4px solid #ffffff;
-    background-color: #ff8888 !important; }
+    background-color: #4d6be6 !important; }
   .alert a {
     padding-left: 6px !important; }
     .alert a:hover {
