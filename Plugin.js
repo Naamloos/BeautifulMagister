@@ -24,11 +24,11 @@
 // ==/UserScript==
 
 var main = function() {
-    var css = GM_getValue("magister_theme", "https://naamloosdt.github.io/MagisterTheme/style/style.css");
+    var css = GM_getValue("magister_theme", "https://naamloosdt.github.io/MagisterTheme/style/space.css");
     if(css == "null" || css === null){
-        GM_setValue("magister_theme", "https://naamloosdt.github.io/MagisterTheme/style/style.css");
+        GM_setValue("magister_theme", "https://naamloosdt.github.io/MagisterTheme/style/space.css");
     }
-    css = GM_getValue("magister_theme", "https://naamloosdt.github.io/MagisterTheme/style/style.css");
+    css = GM_getValue("magister_theme", "https://naamloosdt.github.io/MagisterTheme/style/space.css");
     try{
         var bg = document.getElementsByTagName('mg-background-carrousel')[0];
         bg.parentNode.removeChild(bg);
@@ -47,6 +47,6 @@ function setthema(url){
 }
 
 $("#thema").click(function(){
-    var url = prompt("Stel thema URL in", GM_getValue("magister_theme", "https://naamloosdt.github.io/MagisterTheme/style/style.css"));
+    var url = prompt("Stel thema URL in", GM_getValue("magister_theme", "https://naamloosdt.github.io/MagisterTheme/style/space.css"));
     setthema(url);
 });

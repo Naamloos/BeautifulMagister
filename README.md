@@ -8,3 +8,11 @@
 5. Klik op de `thema` knop.
 6. Voer een URL in voor je thema en klik op `OK`.
 7. Profit!
+
+### VoorbeeldThemas
+
+- Space [Naamloos] - `https://naamloosdt.github.io/MagisterTheme/style/space.css`
+- Darkmode [BetterMagister] - `https://rawgit.com/apeklets/BetterMagister/gh-pages/build/css/darkmode.min.css`
+- Metro [BetterMagister] - `https://rawgit.com/apeklets/BetterMagister/gh-pages/build/css/metro.min.css`
+
+####### Jouw thema hier? DM me op twitter -> @naamloos_nl
