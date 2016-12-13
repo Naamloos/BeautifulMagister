@@ -34,13 +34,12 @@ var main = function() {
         bg.parentNode.removeChild(bg);
     }catch(e){
     }
-    var buttons = document.getElementsByClassName('buttons')[0];
     $('<link rel="stylesheet" href="'+css+'">').appendTo('head');
 };
 
 $(document).ready(main);
 
-$('<a class="btn-primary3" ng-class="{\'state-busy\': isBusy}" data-ng-click="" id="thema" tabindex="3">Thema</a>').appendTo('body');
+$('<a id="thema" tabindex="3" style="font-size: 6pt;"> [verander thema]</a>').appendTo('a');
 
 function setthema(url){
     GM_setValue("magister_theme", url);
