@@ -15,5 +15,6 @@
 - Dark Red [Naamloos] - `https://naamloosdt.github.io/MagisterTheme/style/darkred.css`
 - Darkmode [BetterMagister] - `https://rawgit.com/apeklets/BetterMagister/gh-pages/build/css/darkmode.min.css`
 - Metro [BetterMagister] - `https://rawgit.com/apeklets/BetterMagister/gh-pages/build/css/metro.min.css`
+- Dr Who [Pixel] - `https://naamloosdt.github.io/MagisterTheme/style/DrWho.css`
 
 ####### Jouw thema hier? DM me op twitter -> @naamloos_nl
