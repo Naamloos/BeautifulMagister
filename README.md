@@ -17,7 +17,7 @@
 - Metro [BetterMagister] - `https://rawgit.com/apeklets/BetterMagister/gh-pages/build/css/metro.min.css`
 - Dr Who [Pixel] - `https://naamloosdt.github.io/BeautifulMagister/style/DrWho.css`
 
-####### Jouw thema hier? DM me op twitter -> @naamloos_nl
+###### Jouw thema hier? DM me op twitter -> @naamloos_nl
 
 ## Screenshot (Dark Red)
 
