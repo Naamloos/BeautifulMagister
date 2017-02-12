@@ -9,12 +9,6 @@
 6. Voer een URL in voor je thema en klik op `OK`.
 7. Profit!
 
-## Screenshot (Dark Red)
-
-[!Imgur](http://i.imgur.com/WqP15WN.png)
-
-[!Imgur](http://i.imgur.com/vXcq7Js.png)
-
 ### VoorbeeldThemas
 
 - Space [Naamloos] - `https://naamloosdt.github.io/BeautifulMagister/style/space.css`
@@ -24,3 +18,9 @@
 - Dr Who [Pixel] - `https://naamloosdt.github.io/BeautifulMagister/style/DrWho.css`
 
 ####### Jouw thema hier? DM me op twitter -> @naamloos_nl
+
+## Screenshot (Dark Red)
+
+![Imgur](http://i.imgur.com/WqP15WN.png)
+
+![Imgur](http://i.imgur.com/vXcq7Js.png)
