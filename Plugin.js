@@ -5,6 +5,7 @@
 // @description  Laad aangepaste CSS voor magister.
 // @author       Naamloos
 // @match        *.magister.net/*
+// @exclude      https://accounts.magister.net/
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @grant unsafeWindow
 // @grant GM_addStyle
