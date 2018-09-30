@@ -1,3 +1,4 @@
+# UPDATE: support is discontinued omdat mijn nieuwe school gebruik maakt van andere (betere) systemen dan magister
 # Beautiful Magister
 ###### Werkt voor elke school die gebruik maakt van Magister 6.
 ## Instellen
